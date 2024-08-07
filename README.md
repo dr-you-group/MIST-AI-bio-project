@@ -24,7 +24,7 @@
     
 **3. QNA 채널**
 
-K-BDS/KHBDB 내 데이터 등록과 관련된 질문이 있으신 분들께서는 **ISSUES** 탭에 있는 FAQ [https://github.com/dr-you-group/MIST-AI-bio-project/issues] 를 먼저 확인해주시길 바랍니다.
+K-BDS/KHBDB 내 데이터 등록과 관련된 질문이 있으신 분들께서는 **ISSUES** 탭에 있는 [FAQ](https://github.com/dr-you-group/MIST-AI-bio-project/issues) 를 먼저 확인해주시길 바랍니다.
 추가 질문이 있을 경우, Issues를 통해 질문을 남겨주시면 담당 연구원이 신속히 응답해드리겠습니다. 많은 관심과 참여 부탁드립니다. 
 
 사업 수행에 힘써주시는 연구원분들께 감사드립니다. 
