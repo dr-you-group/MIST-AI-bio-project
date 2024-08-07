@@ -1,21 +1,21 @@
 # MIST-AI-bio-project
 
-본 Repository는 'AI 데이터 기반 바이오 선도 사업'에서 수집하는 임상데이터에 대한 **참고자료**로서 기술 과제에서의 데이터 활용을 **증대시키기 위해 연세대학교** 기술 과제 간의 통합 및 연계 지원하기 위해 운영되고 있습니다.  
+본 Repository는 'AI 데이터 기반 바이오 선도 사업'에서 수집하는 임상데이터에 대한 개요문서로서 연세대학교에서 기술 과제에서의 데이터 활용을 증대시키고 기술 과제 간의 통합 및 연계 지원하기 위해 운영되고 있습니다.  
 
 
-**-구성-**
+**개 요 구 성**
 
 **1. 데이터 표준화 및 품질관리 가이드라인 및 매뉴얼 documents 아카이브** 
 
 - K-BDS 제공 자료
   - [K-BDS 사용자 가이드](https://drive.google.com/file/d/1MgSfbs6A7oVGAbTgsNEhLe8OM8kN_aUM/view?usp=sharing)
-  - [K-BDS & KHBDB 데이터 등록 및 기탁 절차](https://drive.google.com/file/d/17k3rDiawEF1CyKdzEkei0FTjtRmNakxw/view?usp=sharing)
   - [K-BDS 품질관리매뉴얼](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/KBDS%20%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EB%A9%94%EB%89%B4%EC%96%BC_2024.pdf)
   
 - KHBDB(인체유래물은행) 제공 자료:
   - [KHBDB 기탁 및 등록 안내](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EC%9D%B8%EC%B2%B4%EC%9C%A0%EB%9E%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%80%ED%96%89%20%EA%B8%B0%ED%83%81%EB%93%B1%EB%A1%9D%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%95%88%EB%82%B4.pdf)
  
 - 공통
+  - [K-BDS & KHBDB 데이터 등록 및 기탁 절차](https://drive.google.com/file/d/17k3rDiawEF1CyKdzEkei0FTjtRmNakxw/view?usp=sharing)
   - [바이오 연구데이터 표준등록양식, 과학기술통신부, 2023](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EB%B0%94%EC%9D%B4%EC%98%A4%20%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%91%9C%EC%A4%80%EB%93%B1%EB%A1%9D%EC%96%91%EC%8B%9D_%EA%B3%BC%EA%B8%B0%EB%B6%80%2C%202023.pdf)
 
 - 가명화 전략 근거
