@@ -10,10 +10,18 @@
 - K-BDS 제공 자료
   - [K-BDS 사용자 가이드](https://drive.google.com/file/d/1MgSfbs6A7oVGAbTgsNEhLe8OM8kN_aUM/view?usp=sharing)
   - [K-BDS & KHBDB 데이터 등록 및 기탁 절차](https://drive.google.com/file/d/17k3rDiawEF1CyKdzEkei0FTjtRmNakxw/view?usp=sharing)
-  - 
-- KHBDB 제공 자료:
-  - 
-    
+  - [K-BDS 품질관리매뉴얼](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/KBDS%20%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EB%A9%94%EB%89%B4%EC%96%BC_2024.pdf)
+  
+- KHBDB(인체유래물은행) 제공 자료:
+  - [KHBDB 기탁 및 등록 안내](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EC%9D%B8%EC%B2%B4%EC%9C%A0%EB%9E%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%80%ED%96%89%20%EA%B8%B0%ED%83%81%EB%93%B1%EB%A1%9D%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%95%88%EB%82%B4.pdf)
+ 
+- 공통
+  - [바이오 연구데이터 표준등록양식, 과학기술통신부, 2023](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EB%B0%94%EC%9D%B4%EC%98%A4%20%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%91%9C%EC%A4%80%EB%93%B1%EB%A1%9D%EC%96%91%EC%8B%9D_%EA%B3%BC%EA%B8%B0%EB%B6%80%2C%202023.pdf)
+
+- 가명화 전략 근거
+  - [보건의료데이터 활용 가이드라인](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8_%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80%2C%202024.pdf)
+  - [가명정보 처리 가이드라인](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EA%B0%80%EB%AA%85%EC%A0%95%EB%B3%B4%20%EC%B2%98%EB%A6%AC%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C%2C%202024..pdf)
+  
 **2. 데이터 유형별(예. 유전체, 단백체, 이미징, 기타 등) csv 파일 형식의 코딩북 제공** 
 
 - 유전체:
@@ -30,7 +38,7 @@ K-BDS/KHBDB 내 데이터 등록과 관련된 질문이 있으신 분들께서�
 사업 수행에 힘써주시는 연구원분들께 감사드립니다. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 사업소개
+# 사업 소개
 
 해당 사업의 주무부처인 과학기술정보통신부(MIST)는 바이오와 디지털 기술을 융합을 통해 난제 해결에 기여하는 데이터기반 디지털 바이오 선도 기술 개발 사업(이하 ‘**AI 바이오 선도 사업**')을 추진하고 있습니다.
 
