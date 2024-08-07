@@ -7,8 +7,12 @@
 
 **1. 데이터 표준화 및 품질관리 가이드라인 및 매뉴얼 documents 아카이브** 
 
-- K-BDS 제공 자료:
+- K-BDS 제공 자료
+  - [K-BDS 사용자 가이드](https://drive.google.com/file/d/1MgSfbs6A7oVGAbTgsNEhLe8OM8kN_aUM/view?usp=sharing)
+  - [K-BDS & KHBDB 데이터 등록 및 기탁 절차](https://drive.google.com/file/d/17k3rDiawEF1CyKdzEkei0FTjtRmNakxw/view?usp=sharing)
+  - 
 - KHBDB 제공 자료:
+  - 
     
 **2. 데이터 유형별(예. 유전체, 단백체, 이미징, 기타 등) csv 파일 형식의 코딩북 제공** 
 
