@@ -22,7 +22,7 @@
   - [보건의료데이터 활용 가이드라인](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8_%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80%2C%202024.pdf)
   - [가명정보 처리 가이드라인](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/documents/%EA%B0%80%EB%AA%85%EC%A0%95%EB%B3%B4%20%EC%B2%98%EB%A6%AC%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C%2C%202024..pdf)
   
-**2. 데이터 유형별(예. 유전체, 단백체, 이미징, 기타 등) csv 파일 형식의 코딩북 제공** 
+**2. 데이터 유형별(예. 유전체, 단백체, 이미징, 기타 등) csv 파일 형식의 코딩북 작성(필요시)** 
 
 - 유전체:
 - 단백체:
