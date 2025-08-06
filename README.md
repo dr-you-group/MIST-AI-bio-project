@@ -10,10 +10,12 @@
 - [『AI 데이터기반 디지털 바이오 선도사업 K-BDS/KHBDB 데이터 등록 가이드』](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/K-BDS-KHBDB%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D%20%EA%B0%80%EC%9D%B4%EB%93%9C_2025.hwp)
 - [『AI 데이터기반 디지털 바이오 선도사업 K-BDS/KHBDB 데이터 등록 체크리스트』](http://github.com/dr-you-group/MIST-AI-bio-project/blob/main/K-BDS-KHBDB%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_2025.hwp)
 
+
 **2. QNA 채널**
 
 K-BDS/KHBDB 내 데이터 등록과 관련된 질문이 있으신 분들께서는 **ISSUES** 탭에 있는 [FAQ](https://github.com/dr-you-group/MIST-AI-bio-project/issues) 를 먼저 확인해주시길 바랍니다.
 추가 질문이 있을 경우, Issues를 통해 질문을 남겨주시면 담당 연구원이 신속히 응답해드리겠습니다. 
+
 
 **3. 데이터 표준화 및 품질관리 가이드라인 및 매뉴얼 documents 아카이브** 
 
