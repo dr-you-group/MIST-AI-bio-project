@@ -7,8 +7,8 @@
 
 **1. K-BDS 및 KHBDB 데이터 등록 가이드 및 체크리스트**  
 
-- [『AI 데이터기반 디지털 바이오 선도사업 K-BDS/KHBDB 데이터 등록 가이드』](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/K-BDS-KHBDB%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D%20%EA%B0%80%EC%9D%B4%EB%93%9C_2025.hwp)
-- [『AI 데이터기반 디지털 바이오 선도사업 K-BDS/KHBDB 데이터 등록 체크리스트』](http://github.com/dr-you-group/MIST-AI-bio-project/blob/main/K-BDS-KHBDB%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_2025.hwp)
+- [『AI 데이터기반 디지털 바이오 선도사업 K-BDS/KHBDB 데이터 등록 가이드』](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/K-BDS-KHBDB%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D%20%EA%B0%80%EC%9D%B4%EB%93%9C_2025.pdf)
+- [『AI 데이터기반 디지털 바이오 선도사업 K-BDS/KHBDB 데이터 등록 체크리스트』](https://github.com/dr-you-group/MIST-AI-bio-project/blob/main/K-BDS-KHBDB%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_2025.pdf)
 
 
 **2. QNA 채널**
